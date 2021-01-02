@@ -14,23 +14,23 @@ function SwipeButtons() {
         <div className="swipeButtons">
             
             <IconButton className="swipeButtons_repeat">
-                <ReplayIcon fontSize="large" className="header_icon" />
+                <ReplayIcon fontSize="medium" className="header_icon" />
             </IconButton>
 
             <IconButton className="swipeButtons_left">
-                <CloseIcon fontSize="large" className="header_icon" />
+                <CloseIcon fontSize="medium" className="header_icon" />
             </IconButton>
 
             <IconButton className="swipeButtons_star">
-                <StarRateIcon fontSize="large" className="header_icon" />
+                <StarRateIcon fontSize="medium" className="header_icon" />
             </IconButton>
             
             <IconButton className="swipeButtons_right">
-                <FavoriteIcon fontSize="large" className="header_icon" />
+                <FavoriteIcon fontSize="medium" className="header_icon" />
             </IconButton>
 
             <IconButton className="swipeButtons_lightning">
-                <FlashOnIcon fontSize="large" className="header_icon" />
+                <FlashOnIcon fontSize="medium" className="header_icon" />
             </IconButton>
 
         </div>
